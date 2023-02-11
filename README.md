@@ -4,13 +4,14 @@ Improve Autism Screening by developing a model that predicts the likelihood of h
 ## [What is Autism?](#table-of-contents)
 Autism spectrum disorder (ASD) is a developmental impairment caused by abnormalities in the brain. People with ASD may struggle with confined or repetitive activities or interests, as well as social communication and engagement. Additionally, people with ASD may learn, move, or pay attention in various ways.
 
-## Related Resources
+## [Related Resources](#table-of-contents)
 - Medium Blog: [Autism Spectrum Disorder Prediction Using Artificial Neural Networks](https://medium.com/@vardhansaireddy1245/predicting-autism-screening-using-ann-e18ba78802b5)
 
 # Table of contents
 
 - [Abstract](#Abstract)
 - [What is Autism?](#What-is-Autism?)
+- [Related Resources](#Related Resources)
 - [Installation](#table-of-contents)
 - [Implementation](#Implementation)
 - [Conclusion](#Conclusion)
