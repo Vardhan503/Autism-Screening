@@ -11,7 +11,7 @@ Autism spectrum disorder (ASD) is a developmental impairment caused by abnormali
 
 - [Abstract](#Abstract)
 - [What is Autism?](#What-is-Autism?)
-- [Related Resources](#Related Resources)
+- [Related Resources](#Related-Resources)
 - [Installation](#table-of-contents)
 - [Implementation](#Implementation)
 - [Conclusion](#Conclusion)
